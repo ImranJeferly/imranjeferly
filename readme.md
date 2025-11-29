@@ -1,13 +1,13 @@
 <!-- Custom Animated Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/banner.svg" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/banner.svg?v=2" width="100%" alt="Banner">
 </div>
 
 <br/>
 
 <!-- Featured Projects Section Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-projects.svg" width="800" alt="Featured Projects">
+  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-projects.svg?v=2" width="800" alt="Featured Projects">
 </div>
 
 <br/>
@@ -160,7 +160,7 @@
 
 <!-- Tech Stack Section Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-tech.svg" width="800" alt="Tech Stack">
+  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-tech.svg?v=2" width="800" alt="Tech Stack">
 </div>
 
 <br/>
@@ -188,7 +188,7 @@
 
 <!-- About Me Section Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-about.svg" width="800" alt="About Me">
+  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-about.svg?v=2" width="800" alt="About Me">
 </div>
 
 <br/>  
@@ -202,7 +202,7 @@
 
 <!-- Contact Section Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-contact.svg" width="800" alt="Contact">
+  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-contact.svg?v=2" width="800" alt="Contact">
 </div>
 
 <br/>
@@ -217,5 +217,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/footer.svg" width="800" alt="Footer">
+  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/footer.svg?v=2" width="800" alt="Footer">
 </div>
