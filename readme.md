@@ -1,6 +1,6 @@
 <!-- Custom Animated Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/banner.svg?v=3" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/banner1.svg" width="100%" alt="Banner">
 </div>
 
 <br/>
