@@ -18,10 +18,9 @@
   </a>
 </td>
 <td width="60%" valign="middle" style="border: none; padding: 20px;">
-  <p style="margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Aistagingapp.svg" alt="AI Staging App" height="80" style="vertical-align: middle;"/>
-  </p>
-  <h2 style="margin-top: 0;">AI Staging App</h2>
+  <h2 style="margin-top: 0; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Aistagingapp.svg" alt="AI Staging App" height="80" style="vertical-align: middle;"/> AI Staging App
+  </h2>
   <p style="font-size: 1.1em;">AI-powered virtual staging platform for real estate using Next.js and OpenAI. Transform empty rooms into beautifully staged spaces instantly.</p>
   <p>
     <strong>Tech Stack:</strong> Next.js, OpenAI API, TypeScript, Prisma
@@ -46,10 +45,9 @@
   </a>
 </td>
 <td width="60%" valign="middle" style="border: none; padding: 20px;">
-  <p style="margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Formbuddyai.svg" alt="Form Buddy AI" height="80" style="vertical-align: middle;"/>
-  </p>
-  <h2 style="margin-top: 0;">Form Buddy AI</h2>
+  <h2 style="margin-top: 0; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Formbuddyai.svg" alt="Form Buddy AI" height="80" style="vertical-align: middle;"/> Form Buddy AI
+  </h2>
   <p style="font-size: 1.1em;">Smart form-generation SaaS that converts AI schemas directly into production-ready UI components. Build forms in seconds, not hours.</p>
   <p>
     <strong>Tech Stack:</strong> React, Node.js, AI Schema Parser, TailwindCSS
@@ -74,10 +72,9 @@
   </a>
 </td>
 <td width="60%" valign="middle" style="border: none; padding: 20px;">
-  <p style="margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Seo-automation.svg" alt="SEO Automation" height="80" style="vertical-align: middle;"/>
-  </p>
-  <h2 style="margin-top: 0;">SEO Automation</h2>
+  <h2 style="margin-top: 0; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Seo-automation.svg" alt="SEO Automation" height="80" style="vertical-align: middle;"/> SEO Automation
+  </h2>
   <p style="font-size: 1.1em;">AI-driven SEO content automation and SERP workflow generator. Automate your content strategy and rank higher with intelligent optimization.</p>
   <p>
     <strong>Tech Stack:</strong> Next.js, Python, OpenAI, SERP APIs
@@ -102,10 +99,9 @@
   </a>
 </td>
 <td width="60%" valign="middle" style="border: none; padding: 20px;">
-  <p style="margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Keeprate.svg" alt="KeepRate - B2B Whop App" height="80" style="vertical-align: middle;"/>
-  </p>
-  <h2 style="margin-top: 0;">KeepRate</h2>
+  <h2 style="margin-top: 0; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/Keeprate.svg" alt="KeepRate - B2B Whop App" height="80" style="vertical-align: middle;"/> KeepRate
+  </h2>
   <p style="font-size: 1.1em;">Analytics dashboard SaaS focused on customer retention and performance metrics. Track what matters and keep your users coming back.</p>
   <p>
     <strong>Tech Stack:</strong> React, Node.js, PostgreSQL, Chart.js
@@ -130,10 +126,9 @@
   </a>
 </td>
 <td width="60%" valign="middle" style="border: none; padding: 20px;">
-  <p style="margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/teletebib.svg" alt="Teletebib" height="80" style="vertical-align: middle;"/>
-  </p>
-  <h2 style="margin-top: 0;">Teletebib</h2>
+  <h2 style="margin-top: 0; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/teletebib.svg" alt="Teletebib" height="80" style="vertical-align: middle;"/> Teletebib
+  </h2>
   <p style="font-size: 1.1em;">Comprehensive telemedicine platform with automated video room creation and appointment booking. Healthcare made accessible for everyone.</p>
   <p>
     <strong>Tech Stack:</strong> Next.js, WebRTC, Prisma, TailwindCSS
