@@ -197,8 +197,3 @@
 </p>
 
 <br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/footer.svg?v=3" width="600" alt="Footer">
-</div>
