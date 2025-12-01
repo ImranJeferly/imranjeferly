@@ -127,7 +127,7 @@
 </td>
 <td width="60%" valign="middle" style="border: none; padding: 20px;">
   <h2 style="margin-top: -10px; margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/teletebib-logo.svg" alt="Teletebib" height="80" style="vertical-align: middle;"/> Teletebib
+    <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/teletebib-logo.svg" alt="Teletebib" height="80" style="vertical-align: middle;"/> TeleTebib
   </h2>
   <p style="font-size: 1.1em;">Comprehensive telemedicine platform with automated video room creation and appointment booking. Healthcare made accessible for everyone.</p>
   <p>
