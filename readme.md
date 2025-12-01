@@ -5,10 +5,7 @@
 
 <br/>
 
-<!-- Featured Projects Section Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-projects.svg?v=3" width="600" alt="Featured Projects">
-</div>
+# Featured Projects
 
 <br/>
 
@@ -158,10 +155,7 @@
 
 <br/>
 
-<!-- Tech Stack Section Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-tech.svg?v=3" width="600" alt="Tech Stack">
-</div>
+# Tech Stack
 
 <br/>
 
@@ -186,10 +180,7 @@
 
 <br/>
 
-<!-- About Me Section Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-about.svg?v=3" width="600" alt="About Me">
-</div>
+# About Me
 
 <br/>  
 - Full-stack developer from Azerbaijan 🇦🇿  
@@ -200,10 +191,7 @@
 
 <br/>
 
-<!-- Contact Section Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImranJeferly/ImranJeferly/main/assets/svg/section-header-contact.svg?v=3" width="600" alt="Contact">
-</div>
+# Contact
 
 <br/>
 
