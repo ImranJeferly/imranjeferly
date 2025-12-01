@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/▶_Live_Demo-2563EB?style=for-the-badge&labelColor=1E40AF" alt="Live Demo"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/ImranJeferly/ai-staging-app" target="_blank">
+    <a href="https://github.com/ImranJeferly/aistagingapp" target="_blank">
       <img src="https://img.shields.io/badge/⚡_View_Code-1F2937?style=for-the-badge&labelColor=111827" alt="GitHub"/>
     </a>
   </p>
@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/▶_Live_Demo-2563EB?style=for-the-badge&labelColor=1E40AF" alt="Live Demo"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/ImranJeferly/form-buddy-ai" target="_blank">
+    <a href="https://github.com/ImranJeferly/from-buddy" target="_blank">
       <img src="https://img.shields.io/badge/⚡_View_Code-1F2937?style=for-the-badge&labelColor=111827" alt="GitHub"/>
     </a>
   </p>
